@@ -4,15 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&lines=SOFTWARE+ENGINEER;MOBILE+APP+DEVELOPER;E-COMMERCE+WEBSITES+SPECIALIST&center=true" alt="Typing SVG" width="600" height="66" />
 
-> "To make something special you have to believe its special"
-
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/STATUS-OPERATIONAL-000000?style=for-the-badge&logo=gear&logoColor=FF69B4&labelColor=1F0E3D&color=8A2BE2" alt="Status Operational Badge">
-</p>
-
----
 <p align="center">⚡️ ⚡️ ⚡️</p>
----
+<p align="center">
+  "To make something special you have to believe its special"
+</p>
 
 ## █ A B O U T ︻ M E S S A G E █
 
