@@ -29,8 +29,6 @@ I operate as a **Full-Stack Software Engineer** specializing in the delivery of 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify Badge">
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce Badge">
-  <img src="https://skillicons.dev/icons?i=wordpress" />
 </p>
 
 ### ☁️ Backend & Data Layer
