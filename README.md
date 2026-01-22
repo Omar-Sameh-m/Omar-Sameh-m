@@ -2,7 +2,7 @@
 
 # █ O M A R . S A M E H █
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&lines=SOFTWARE+ENGINEER;MOBILE+APP+DEVELOPER" alt="Typing SVG" width="600" height="66" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&lines=SOFTWARE+ENGINEER;MOBILE+APP+DEVELOPER&center=true" alt="Typing SVG" width="600" height="66" />
 
 <p align="center">⚡️ ⚡️ ⚡️</p>
 <p align="center">
