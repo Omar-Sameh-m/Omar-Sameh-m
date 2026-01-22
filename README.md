@@ -2,7 +2,7 @@
 
 # █ O M A R . S A M E H █
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&lines=SOFTWARE+ENGINEER;MOBILE+APP+DEVELOPER;E-COMMERCE+WEBSITES+SPECIALIST&center=true" alt="Typing SVG" width="600" height="66" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&lines=SOFTWARE+ENGINEER;MOBILE+APP+DEVELOPER" alt="Typing SVG" width="600" height="66" />
 
 <p align="center">⚡️ ⚡️ ⚡️</p>
 <p align="center">
@@ -12,8 +12,6 @@
 ## █ A B O U T ︻ M E S S A G E █
 
 I operate as a **Full-Stack Software Engineer** specializing in the delivery of complete, high-performance digital products across the mobile and e-commerce sectors. My mission is to translate complex requirements into clean, scalable code—taking projects from initial concept to live deployment.
-
-My current focus is on engineering a **Real-Time Flutter Chat Application** and executing high-impact freelance contracts for **E-commerce and Booking Websites**.
 
 ---
 <p align="center">🚀 🚀 🚀</p>
