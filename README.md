@@ -11,7 +11,7 @@
 
 ## █ A B O U T ︻ M E S S A G E █
 
-I operate as a **Full-Stack Software Engineer** specializing in the delivery of complete, high-performance digital products across the mobile and e-commerce sectors. My mission is to translate complex requirements into clean, scalable code—taking projects from initial concept to live deployment.
+I operate as a **Mobile Software Engineer** specializing in the delivery of complete, high-performance digital products across the mobile and e-commerce sectors. My mission is to translate complex requirements into clean, scalable code—taking projects from initial concept to live deployment.
 
 ---
 <p align="center">🚀 🚀 🚀</p>
