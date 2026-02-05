@@ -91,7 +91,7 @@ I am currently working on delivering several large-scale E-commerce and Booking 
 
 | Channel | Identifier / Link |
 | :---: | :--- |
-| **📧 Email Relay** | [os392072@gmail.com](mailto:omar.sameh.m.i@gmail.com) |
+| **📧 Email Relay** | [omar.sameh.m.i@gmail.com](mailto:omar.sameh.m.i@gmail.com) |
 | **🔗 Professional Matrix**| [Connect on LinkedIn](https://www.linkedin.com/in/omar-sameh-mohammed) |
 | **📍 Timezone** | ⏰ Cairo Time Zone (EET) |
 
