@@ -73,15 +73,12 @@ Maintaining algorithmic sharpness is a priority. Active engagement in competitiv
 <p align="center">🌐 🌐 🌐</p>
 ---
 
-## █ D E P L O Y E D ︻ C O D E X █
+## █ C O D E X █
 
-A selection of fully deployed and pinned Flutter applications demonstrating market-ready mobile development skills.
+A selection of Flutter applications demonstrating mobile development skills.
 
 * [**Amazon Clone**](https://github.com/Omar-Sameh-m/amazon_clone) (Full-featured Marketplace Simulation - Flutter / Firebase)
 * [**News App**](https://github.com/Omar-Sameh-m/news-app-flutter) (Content Aggregation and UI/UX - Flutter / API Integration)
-
-### **Current Freelance Missions**
-I am currently working on delivering several large-scale E-commerce and Booking solutions. The portfolio link showcasing these projects will be added soon!
 
 ---
 <p align="center">📡 📡 📡</p>
