@@ -30,6 +30,6 @@
   <text class="mono rise a6" x="48" y="192" font-size="12" fill="var(--muted)" letter-spacing="2">COMPETITIVE PROGRAMMING</text>
   <text class="mono rise a6" x="184" y="192" font-size="15" fill="var(--bone)">Codeforces Pupil · 650+ problems solved</text>
 
-  <text class="mono rise a7" x="48" y="224" font-size="12" fill="var(--muted)" letter-spacing="2">TOOLING</text>
-  <text class="mono rise a7" x="184" y="224" font-size="15" fill="var(--bone)">Git · Figma · Postman</text>
+  <text class="mono rise a7" x="48" y="224" font-size="12" fill="var(--muted)" letter-spacing="2">AI NATIVE PRODUCT ENGINEERING</text>
+  <text class="mono rise a7" x="184" y="224" font-size="13" fill="var(--bone)">Antigravity · Lovart AI · Claude · Grok · Gamma · NotebookLM · Manus AI</text>
 </svg>
