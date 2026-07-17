@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1000 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Experience — ICPC Zagazig, ITI internship, Zagazig University">
+<svg viewBox="0 0 1000 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Experience — ICPC, ITI internship, Computer Software Engineering">
   <style>
     :root { --bone: #444444; --rule: #C0C0C0; --muted: #888888; --dim: #AAAAAA; --accent: #555555; }
     @media (prefers-color-scheme: dark) { :root { --bone: #DDDDDD; --rule: #444444; --muted: #777777; --dim: #666666; --accent: #AAAAAA; } }
@@ -15,7 +15,7 @@
 
   <g class="rise a1">
     <text class="mono" x="48" y="42"  font-size="12" fill="var(--accent)" letter-spacing="2">2025—</text>
-    <text class="mono" x="136" y="42"  font-size="15" fill="var(--bone)">ICPC Zagazig University Community · Vice Tech · Zagazig</text>
+    <text class="mono" x="136" y="42"  font-size="15" fill="var(--bone)">ICPC community · Vice Tech</text>
     <text class="mono" x="136" y="68"  font-size="14" fill="var(--muted)">technical team member since Jan 2025, Vice Tech since Sep 2025</text>
     <text class="mono" x="136" y="90"  font-size="14" fill="var(--muted)">supports training, technical operations for the community</text>
   </g>
@@ -29,7 +29,7 @@
 
   <g class="rise a3">
     <text class="mono" x="48" y="258" font-size="12" fill="var(--accent)" letter-spacing="2">2023 –</text>
-    <text class="mono" x="136" y="258" font-size="15" fill="var(--bone)">Zagazig University · B.Sc. Computer Software Engineering</text>
-    <text class="mono" x="136" y="284" font-size="14" fill="var(--muted)">GDG On-Campus Zagazig — UI/UX track · IEEE CS Zagazig Student Chapter</text>
+    <text class="mono" x="136" y="258" font-size="15" fill="var(--bone)">B.Sc. Computer Software Engineering</text>
+    <text class="mono" x="136" y="284" font-size="14" fill="var(--muted)">GDG On-Campus — UI/UX track · IEEE CS Student Chapter</text>
   </g>
 </svg>
