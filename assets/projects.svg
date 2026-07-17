@@ -1,0 +1,40 @@
+<svg viewBox="0 0 1000 400" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Three projects by Omar Sameh">
+  <style>
+    :root { --ink:#000000; --paper:#FFFFFF; }
+    @media (prefers-color-scheme:dark) { :root { --ink:#FFFFFF; --paper:#000000; } }
+    .mono { font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace; }
+    .row { opacity:0; animation:reveal .55s cubic-bezier(.2,.7,.2,1) forwards; }
+    .rule { stroke:var(--ink); stroke-width:1; }
+    .title { fill:var(--ink); font-size:17px; font-weight:700; letter-spacing:.8px; }
+    .copy { fill:var(--ink); font-size:12px; }
+    .meta { fill:var(--ink); font-size:11px; letter-spacing:.4px; }
+    @keyframes reveal { from { opacity:0; } to { opacity:1; } }
+    .r1{animation-delay:.05s}.r2{animation-delay:.10s}.r3{animation-delay:.15s}
+    @media (prefers-reduced-motion:reduce) { .row { animation:none; opacity:1; } }
+    :root { --ink:#000000; --paper:#FFFFFF; }
+  </style>
+
+  <g class="mono">
+    <g class="row r1" transform="translate(0 20)">
+      <text class="title" x="48" y="24">01 / CONTROLAK</text>
+      <text class="copy" x="48" y="49">Tutor-student management app for Egypt's private tutoring market, where tutors often manage 200+ students across WhatsApp and paper.</text>
+      <text class="copy" x="48" y="68">Group management, auto-graded quizzes, QR-based fee tracking, and a RAG-powered AI bot answering student questions from course materials.</text>
+      <text class="meta" x="48" y="87">FLUTTER · SUPABASE · GEMINI FLASH (RAG) · PRODUCT SCOPING — PAUSED TO FOCUS ON A NEW PRODUCT</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r2" transform="translate(0 130)">
+      <text class="title" x="48" y="24">02 / EGYPT HACKATHON &amp; OPPORTUNITY SCANNER</text>
+      <text class="copy" x="48" y="49">Automated daily scanner that tracks hackathon and bootcamp announcements across Egyptian tech community Facebook pages.</text>
+      <text class="copy" x="48" y="68">Pipeline: scraper → deduplication → Arabic-typo-tolerant keyword matching → Telegram delivery. Grew to 60+ subscribers organically.</text>
+      <text class="meta" x="48" y="87">PYTHON · GITHUB ACTIONS · APIFY · TELEGRAM BOT API · ~$0.15/MONTH TO RUN</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r3" transform="translate(0 240)">
+      <text class="title" x="48" y="24">03 / LIQUID GALAXY FLUTTER CONTROLLER</text>
+      <text class="copy" x="48" y="49">Open-source contribution: a Flutter controller app for Liquid Galaxy, a multi-screen Google Earth visualization system.</text>
+      <text class="copy" x="48" y="68">SSH-based orchestration of a master/slave display cluster, with dynamic KML generation for overlays and fly-to commands.</text>
+      <text class="meta" x="48" y="87">FLUTTER · DART · SSH · KML · DISTRIBUTED SYSTEMS DEBUGGING</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+  </g>
+</svg>
